@@ -1,0 +1,201 @@
+*{
+    margin: 2;
+    padding: 0%;
+  background-color: black;
+}
+
+
+.navbar{display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    height: 120px;
+    
+   
+    
+    
+}
+.eight{
+   
+    color: rgb(255, 255, 255);
+    text-shadow:
+    1px 1px 0 #ccc,
+    2px 2px 0 #bbb,
+    3px 3px 0 #aaa;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+.nine{
+    font-size: 50px;
+    color:rgb(255, 243, 243);
+    text-shadow:
+    1px 1px 0 #ccc,
+    2px 2px 0 #bbb,
+    3px 3px 0 #aaa;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ten{
+    font-size: 50px;
+    color: rgb(190, 158, 158);
+}
+.ELEVEN{
+    font-size: 50PX;
+    color: rgb(173, 142, 142);
+}
+
+.twelve{
+    color: rgb(255, 255, 255);
+    padding-right: 500px;
+    margin-right: 30px;
+    padding-top: 10px;
+}
+#two{
+    color: rgb(71, 71, 238);
+
+}
+#img1{
+    height: 40px;
+    padding-top: 10px;
+}
+#HOME{
+    display: flex;
+}
+img{
+    height: 250px;
+    padding-top: 150px;
+    margin-left: 150px;
+}
+#element{
+    color: rgb(217, 18, 214);
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#element1{
+    color: rgb(190, 32, 243);
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.THIRTEEN{
+    color: white;
+    font-size: 50PX;
+    padding-left: 45%;
+    font-style: italic;
+}
+#fourteen{
+    color: white;
+    font-size: 20px;
+    padding-left: 20%;
+    /*padding-right: 40%;*/
+}
+.fiveteen{
+    color: white;
+    padding-left: 30%;
+    padding-right: 25%;
+}
+.sixteen{
+    color: white;
+    padding-left: 30%;
+    padding-right: 25%;
+}
+.seventeen{
+    color: white;
+    padding-left: 30%;
+    padding-right: 25%; 
+    background-color: rgb(0, 0, 0);
+}
+#insta{
+    background-color: azure;
+    padding: 0%;
+    height: 140px;
+}
+
+#git{
+    background-color: azure;
+    padding: 0%;
+    height: 140px;
+}
+#link{
+    background-color: azure;
+    padding: 0%;
+    height: 140px;
+}
+#gmail{
+    background-color: azure;
+    padding: 0%;
+    height: 140px;
+}
+#contact{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+#insta:hover{
+    transform: scale(1.5);
+
+}
+#git:hover{
+    transform: scale(1.5);
+}
+
+#link:hover{
+    transform: scale(1.5);
+}
+
+#gmail:hover{
+    transform: scale(1.5);
+}
+#two:hover{
+    transform: scale(1.2);
+}
+#three:hover{
+    transform: scale(1.2);
+}
+#four:hover{
+    transform: scale(1.2);
+}   
+#five:hover{
+    transform: scale(1.2);
+}
+#six:hover{
+    transform: scale(1.2);
+}
+#seven:hover{
+    transform: scale(1.2);
+}
+.eighteen{
+    color: white;
+    font-size: 50PX;
+    padding-left: 45%;
+    font-style: italic;
+}
+.skills{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-size: cover;
+    
+}
+.skills1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+}
+.nineteen{
+    color: white;
+    font-size: 50PX;
+    padding-left: 45%;
+    font-style: italic;
+}
+.skills:hover{
+    
+}
